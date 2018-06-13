@@ -1,6 +1,6 @@
 package com.exampleprograms;
 
-public class TwoDimensionalShape extends Shapes {
+public class TwoDimensionalShape extends FindPassword {
 
 	@Override
 	public void square(){

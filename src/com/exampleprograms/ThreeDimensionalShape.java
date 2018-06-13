@@ -1,6 +1,6 @@
 package com.exampleprograms;
 
-public class ThreeDimensionalShape extends Shapes {
+public class ThreeDimensionalShape extends FindPassword {
 
 	@Override
 	public void quadrilateral() {

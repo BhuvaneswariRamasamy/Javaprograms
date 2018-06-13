@@ -1,6 +1,6 @@
 package com.exampleprograms;
 
-public class Shapes {
+public class FindPassword {
 public void square(){
 	
 }

@@ -5,5 +5,6 @@ public static void main(String args[]) {
 	Animals animalone=new Lily();
 	Animals animaltwo=new Hen();
 	animalone.getSpeed();
+	System.out.println(animalone instanceof Jasmine);
 }
 }
